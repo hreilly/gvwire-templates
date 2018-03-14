@@ -12,6 +12,6 @@ For the articles that do not come from GV Wire, alter the "Read more on ### >>" 
 
 All of the linked template images live in the /th.images bucket under /gvwire. Images unique to each newsletter are stored in /ftf and further broken down by week.
 
-Daily newsletters and their component parts (including the original .DOC and the .html) live in Marketing/41- GV Wire/First Things First 2018. The files are further broken down by month and date.
+Daily newsletters and their component parts (including the original .doc and the .html) live in Marketing/41- GV Wire/First Things First 2018. The files are further broken down by month and date.
 
 Once the template has been updated, run it through [https://putsmail.com/inliner].

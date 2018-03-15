@@ -19,7 +19,7 @@ CUSTOMIZATION NOTES:
 
 1. For the articles that do not come from GV Wire, alter the "Read more on ### >>" line to reflect the appropriate source. Sometimes you'll need to use this line for more than one article. If this is the case, make sure to copy the entire line including the "strong" tags and remove the "font-weight: bold" designator from the link styling.
 
-1. Scrub the text pretty thoroughly for grammar/spelling errors and syntax issues. Even once the content has been approved by GV Wire, there are often minor errors that need to be corrected.
+1. Scrub the text pretty thoroughly for grammar/spelling errors and syntax issues. Even once the content has been approved by GV Wire, there are often errors that need to be corrected.
 
 1. All of the linked template images live in the /th.images bucket under /gvwire. Images unique to each newsletter are stored in /ftf and further broken down by week.
 

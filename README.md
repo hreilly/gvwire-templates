@@ -13,7 +13,7 @@ CUSTOMIZATION NOTES:
 
 1. For each newsletter, the featured images should be created using the included PSD template, then optimized in RIOT to under 25kb each (just save over the original). To work with, I just download the 750x400 image versions from both articles. I typically lead with the orange overlay, but I have switched it up on occasion. "alt_text" should be changed to reflect the content of the image.
 
-1. The best bet for catching incorrect links is opening them all and copying the url from the browser. This lets you make sure that the link is actually what it is supposed to be and that it doesn't have a long, unnecessary tracking link from another UTM source.
+1. The best bet for catching incorrect links is opening them all and copying the url from the browser. This lets you make sure that the link is actually what it is supposed to be and that it doesn't have a long, unnecessary tracking code from another UTM source.
 
 1. The two featured stories link from both the image and the headline. Articles in the list only link from the single "Read More" line. If you have trouble finding placement for any of the links, you can search the document for my (href="#") placeholders. 
 

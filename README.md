@@ -11,7 +11,7 @@ CUSTOMIZATION NOTES:
 
 1. To start, I prefer to copy everything from the .doc to a good text editor [http://brackets.io/]. It's much easier to highlight the text you want and avoid pulling in odd formatting or line breaks. *You'll still need the word document for links.*
 
-1. For each newsletter, the featured images should be created using the included PSD template, then optimized in RIOT to under 25kb each (just save over the original). To work with, I just download the 750x400 image versions from both articles. I typically lead with the orange overlay, but I have switched it up on occasion. "alt_text" should be changed to reflect the content of the image.
+1. For each newsletter, the featured images should be created using the included PSD template, then optimized in RIOT to under 25kb each (just save over the original). To work with, I just download the 750x400 image versions from both articles. Adjustments usually include converting to black and white, increasing brightness/contrast, and tweaking offset/gamma in the exposure panel to achieve a washy, tinted appearance. I typically lead with the orange overlay, but I have switched it up on occasion. "alt_text" should be changed to reflect the content of the image.
 
 1. The best bet for catching incorrect links is opening them all and copying the url from the browser. This lets you make sure that the link is actually what it is supposed to be and that it doesn't have a long, unnecessary tracking code from another UTM source.
 

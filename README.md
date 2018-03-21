@@ -11,11 +11,11 @@ CUSTOMIZATION NOTES:
 
 1. To start, I prefer to copy everything from the .doc to a good text editor [http://brackets.io/]. It's much easier to highlight the text you want and avoid pulling in odd formatting or line breaks. *You'll still need the word document for links.*
 
-1. For each newsletter, the featured images should be created using the included PSD template, then optimized in RIOT to under 25kb each (just save over the original). To work with, I just download the 750x400 image versions from both articles. Adjustments usually include converting to black and white, increasing brightness/contrast, and tweaking offset/gamma in the exposure panel to achieve a washy, tinted appearance. I typically lead with the orange overlay, but I have switched it up on occasion. "alt_text" should be changed to reflect the content of the image.
+1. For each newsletter, the featured images should be created using the included PSD template, then optimized in RIOT to under 25kb each, if possible (OK to save over the original). To work with, I just download the 750x400 image versions from both articles. If adjustments need to be made, they should focus on making these smaller images more eye-catching than the originals and also ensuring that they don't clash too intensely with the newsletter's color palette. It may be necessary to find alternative artwork in some situations.
 
 1. The best bet for catching incorrect links is opening them all and copying the url from the browser. This lets you make sure that the link is actually what it is supposed to be and that it doesn't have a long, unnecessary tracking code from another UTM source.
 
-1. The two featured stories link from both the image and the headline. Articles in the list only link from the single "Read More" line. If you have trouble finding placement for any of the links, you can search the document for my (href="#") placeholders. 
+1. The two featured stories link from both the image and the headline. Articles in the list only link from the single "Read More" line. If you have trouble finding placement for any of the links, you can search the document for my (href="#") placeholders.
 
 1. For the articles that do not come from GV Wire, alter the "Read more on ### >>" line to reflect the appropriate source. Sometimes you'll need to use this line for more than one article. If this is the case, make sure to copy the entire line including the "strong" tags and remove the "font-weight: bold" designator from the link styling.
 
@@ -27,7 +27,7 @@ CUSTOMIZATION NOTES:
 
 1. Once the template has been updated, run it through Litmus [https://putsmail.com/inliner]. This is probably the most important step because it pulls all of the CSS into inline styles.
 
-1. In Activecampaign, create a new campaign and select "Build from Scratch". Choose HTML, copy in the subject line (and check the email addresses), and then paste the code from Litmus in the editor. 
+1. In Activecampaign, create a new campaign and select "Build from Scratch". Choose HTML, copy in the subject line (and check the email addresses), and then paste the code from Litmus in the editor.
 
 1. Make sure to send a test email, even if the links have already been checked. On rare occasions, there will be an issue with the inlining process that you can only catch in a test email. If this happens, simply run the original code through the inliner again and it should be resolved.
 

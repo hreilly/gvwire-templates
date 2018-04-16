@@ -31,4 +31,4 @@ CUSTOMIZATION NOTES:
 
 1. Make sure to send a test email, even if the links have already been checked. On rare occasions, there will be an issue with the inlining process that you can only catch in a test email. If this happens, simply run the original code through the inliner again and it should be resolved.
 
-1. When everything is finished and sent, make sure to save out the original .doc and a copy of the edited template. *Select "No" when the Dreamweaver dialogue asks if you'd like to update links.*
+1. When everything is finished and sent, make sure to save out the original .doc and a copy of the edited template in Marketing/41 GV Wire/First Things First 2018/ (broken down by month then day). *Select "No" when the Dreamweaver dialogue asks if you'd like to update links.*

@@ -1,15 +1,19 @@
 # gvwire-templates
 Email templates for GV Wire
 
-Designed for use with Activecampaign
+Designed for use with Activecampaign, though with minor modifications, they should work through an major email marketing platform.
+
+# Welcome Letter Template
+
+This letter will automatically send to new subscribers and won't need to be updated frequently.
 
 # Newsletter Template
 
-RECOMMENDED PROGRAMS: Dreamweaver, Photoshop, Brackets, Word, RIOT, Cyberduck
+RECOMMENDED PROGRAMS: Editor of choice (VS Code, Atom, Sublime, Vim, Dreamweaver), Photoshop, Brackets, Word, RIOT, Cyberduck
 
 CUSTOMIZATION NOTES:
 
-1. To start, I prefer to copy everything from the .doc to a good text editor [http://brackets.io/]. It's much easier to highlight the text you want and avoid pulling in odd formatting or line breaks. *You'll still need the word document for links.*
+1. To start, I prefer to copy everything from the .doc to a good simple text editor [http://brackets.io/]. It's much easier to highlight the text you want and avoid pulling in odd formatting or line breaks. *You'll still need the word document for links.*
 
 1. For each newsletter, the featured images should be created using the included PSD template, then optimized in RIOT to under 25kb each, if possible (OK to save over the original). To work with, I just download the 750x400 image versions from both articles. If adjustments need to be made, they should focus on making these smaller images more eye-catching than the originals and also ensuring that they don't clash too intensely with the newsletter's color palette. It may be necessary to find alternative artwork in some situations.
 
@@ -31,4 +35,4 @@ CUSTOMIZATION NOTES:
 
 1. Make sure to send a test email, even if the links have already been checked. On rare occasions, there will be an issue with the inlining process that you can only catch in a test email. If this happens, simply run the original code through the inliner again and it should be resolved.
 
-1. When everything is finished and sent, make sure to save out the original .doc and a copy of the edited template in Marketing/41 GV Wire/First Things First 2018/ (broken down by month then day). *Select "No" when the Dreamweaver dialogue asks if you'd like to update links.*
+1. When everything is finished and sent, make sure to save out the original .doc and a copy of the edited template in Marketing/41 GV Wire/First Things First 2018/ (broken down by month then day). *If using Dreamweaver, select "No" when the Dreamweaver dialogue asks if you'd like to update links.*

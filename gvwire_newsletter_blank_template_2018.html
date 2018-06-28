@@ -40,6 +40,10 @@ table, td {
     mso-table-lspace: 0pt !important;
     mso-table-rspace: 0pt !important;
 }
+/* Hides content in Outlook Web App*/
+.ExternalClass .outlook-hidden, [owa] .outlook-hidden {
+    display:none;
+}
 /* YAHOO FIXES */
 table {
     border-spacing: 0 !important;
@@ -179,11 +183,9 @@ td[class="main_nav"] td {
           <tr style="background-color: #000000;">
             <td class="desktop-header"><img src="http://th.images.s3.amazonaws.com/gvwire/gvwire_email_header_update_12_2017-01.jpg" alt="GV Wire - First Things First" width="100%" height="auto" style="border: 0; padding-bottom: 10px; background-color: #000000;" /></td>
           </tr>
-          <!--[if !mso]><!-->
-          <tr style="background-color: #000000;">
-            <td class="mobile-header"><img src="http://th.images.s3.amazonaws.com/gvwire/gvwire_mobile_email_header_12_2017-02.jpg" alt="GV Wire - First Things First" width="100%" height="auto" style="border: 0; padding-bottom: 10px; background-color: #000000;" /></td>
+          <tr class="outlook-hidden" style="background-color: #000000; mso-hide:all;">
+            <td class="mobile-header" style="mso-hide:all;"><img src="http://th.images.s3.amazonaws.com/gvwire/gvwire_mobile_email_header_12_2017-02.jpg" alt="GV Wire - First Things First" width="100%" height="auto" style="border: 0; padding-bottom: 10px; background-color: #000000; mso-hide: all;" /></td>
           </tr>
-          <!--<![endif]--> 
           
           <!-- IMAGE HEADER END --> 
           

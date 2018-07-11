@@ -1,7 +1,7 @@
 # gvwire-templates
 Email templates for GV Wire
 
-Designed for use with Activecampaign, though with minor modifications, they should work through an major email marketing platform.
+Designed for use with Activecampaign, though with minor modifications, they should work through any major email marketing platform.
 
 # Welcome Letter Template
 

@@ -29,7 +29,7 @@ CUSTOMIZATION NOTES:
 
 1. All of the linked template images live in the /th.images bucket under /gvwire. Images unique to each newsletter are stored in /ftf and further broken down by week.
 
-1. Daily newsletters and their component parts (including the original .doc and the .html) live in Marketing/41 GV Wire/First Things First 2018. The files are further broken down by month and date.
+1. Daily newsletters and their component parts (including the original .doc and the .html) live in (W:) GV Wire/11 - Email. The files are further broken down by month and date.
 
 1. Once the template has been updated, run it through [Litmus](https://putsmail.com/inliner). This is probably the most important step because it pulls all of the CSS into inline styles.
 
@@ -37,4 +37,4 @@ CUSTOMIZATION NOTES:
 
 1. Make sure to send a test email, even if the links have already been checked. On rare occasions, there will be an issue with the inlining process that you can only catch in a test email. If this happens, simply run the original code through the inliner again and it should be resolved.
 
-1. When everything is finished and sent, make sure to save out the original .doc and a copy of the edited template in Marketing/41 GV Wire/First Things First 2018/ (broken down by month then day).
+1. When everything is finished and sent, make sure to save out the original .doc and a copy of the edited template in (W:) GV Wire/11 - Email/Newsletter (broken down by year then month/day).
